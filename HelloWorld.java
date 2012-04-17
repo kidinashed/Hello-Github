@@ -4,8 +4,6 @@
  *
  *  Prints "Hello, World".
  *
- * Added comment to update github and see what happens
- *
  *************************************************************************/
 
 public class HelloWorld {
